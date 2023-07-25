@@ -1,5 +1,5 @@
 #include "main.h"
-/***
+/**
  * *_strcpy - copies the string
  * @dest: string of type char
  * @src: string of type char
