@@ -1,5 +1,10 @@
 #include <ctype.h>
 #include "main.h"
+/**
+ * *cap_string - Function that is going to capitalize all string characters
+ * @*str: pointer to string
+ * Return: pointer to *str
+ */
 
 char *cap_string(char *str)
 {
